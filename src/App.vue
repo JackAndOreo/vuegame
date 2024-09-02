@@ -56,7 +56,7 @@
                         </div>
                         <div class="games_card" @click="gameSelect('slot')">
                             <div class="games_img">
-                                <img src="/img/Technic2.jpg" alt="">
+                                <img src="/img/slot.png" alt="">
                             </div>
                             <div class="games_title_bg"></div>
                             <div class="games_title">拉霸機</div>
